@@ -1,6 +1,6 @@
 # Financial Services Performance Analysis: A Data Story
 **Author:** Senior Data Analyst  
-**Email:** 23f2003550@ds.study.iitm.ac.in  
+**Email:**  24f1000537@ds.study.iitm.ac.in
 **Date:** August 20, 2025
 
 ---
