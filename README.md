@@ -1,6 +1,6 @@
 # Financial Services Performance Analysis: A Data Story
 **Author:** Senior Data Analyst  
-**Email:** 23f2003550@ds.study.iitm.ac.in  
+**Email:** 24f1000537@ds.study.iitm.ac.in.
 **Date:** August 20, 2025
 
 ---
@@ -18,7 +18,7 @@ The quarterly data for 2024 shows a steady increase in our Customer Acquisition 
 - **Q3:** $230.34
 - **Q4:** $232.91
 
-The average CAC for the year stands at **$229.69**, which is **53% higher** than the industry target of $150. This trend indicates that our marketing efforts are becoming less efficient over time.
+The average CAC for the year stands at **$229.26**, which is **53% higher** than the industry target of $150. This trend indicates that our marketing efforts are becoming less efficient over time.
 
 ### Data Visualization
 The following chart visualizes the quarterly CAC trend against the industry benchmark.
